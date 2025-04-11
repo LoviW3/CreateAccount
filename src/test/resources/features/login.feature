@@ -15,4 +15,4 @@ Feature: Creating an account
       |chrome |25/03/2000|  Alice  |  Wendy |alice.wendy@mailnesia.com|Test123Word|Test123Word|   false |      no      |
       |firefox|25/03/2000|  Alice  |        |alice.wendy@mailnesia.com|Test123Word|Test123Word|   true  |      no      |
       |chrome |25/03/2000|  Alice  |  Wendy |alice.wendy@mailnesia.com|Test123Word|Test124Word|   true  |      no      |
-      #|firefox|25/03/2000|  Alice  |  Wendy |alice.wendy@mailnesia.com|Test123Word|Test123Word|   true  |      yes     |
+      |firefox|25/03/2000|  Alice  |  Wendy |alice.wendy@mailnesia.com|Test123Word|Test123Word|   true  |      yes     |
